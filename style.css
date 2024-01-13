@@ -103,9 +103,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-#navbar.active{
-  right: 0px;
-}
+
 
 #navbar li {
   list-style: none;
@@ -580,6 +578,9 @@ footer .copyright {
     padding: 80px 0 0 10px;
 
 
+  }
+  #navbar.active{
+    right: 0px;
   }
   #navbar li{
     margin-bottom: 25px;
