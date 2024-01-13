@@ -579,7 +579,7 @@ footer .copyright {
 
 
   }
-  #navbar.active{
+  #navbar .active{
     right: 0px;
   }
   #navbar li{
